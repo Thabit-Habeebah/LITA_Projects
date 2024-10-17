@@ -15,3 +15,11 @@ The primary source of the data used here is House_Price_Predidction.csv which ca
    3. For Data Visualization 
 - SQL - Structured Query Language for quering data 
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparation
+In the initial phase of data cleaning and preparation,we perform the following action;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
