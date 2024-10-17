@@ -38,4 +38,5 @@ This is where we include some basic lines of code or queries used during analysi
 SELECT *
 FROM Table1
 WHERE CONDITION = TRUE
-
+```
+### Data Visualization
