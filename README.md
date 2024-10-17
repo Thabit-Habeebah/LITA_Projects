@@ -7,3 +7,11 @@ This Data Analysis Project gives an insight into the quality of houses over the 
 
 ### Data Sources
 The primary source of the data used here is House_Price_Predidction.csv which can be dowloaded freely on Kaggle
+
+### Tools Used
+- Microsoft Excel [Downlaod Here](https://www.microsoft.com)
+   1. For Data cleaning
+   2. For Analysis
+   3. For Data Visualization 
+- SQL - Structured Query Language for quering data 
+- GitHub for Portfolio Building
