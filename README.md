@@ -4,11 +4,11 @@
 
 ### Project Overview
 ---
-This Data Analysis Project gives an insight into the quality of houses over the years .By analysing various parameters in the data received ,we seek to gather enough insight to take into consideration the reasons for the changes overtime and the conditions of those houses in the year they were built.This could also allow us to make reasonable decision when building a house.
+This Data Analysis Project gives an insight into the quality of houses over the years .By analysing various parameters in the data received ,we seek to gather enough insight to take into consideration the reasons for the changes overtime and the conditions of those houses in the year they were built.This could also allow us to make reasonable decision when building or buying a house.
 
 ### Data Sources
 ---
-The primary source of the data used here is House_Price_Predidction.csv which can be dowloaded freely on Kaggle
+The primary source of the data used here is House_Price_Prediction.csv which can be dowloaded freely on Kaggle
 
 ### Tools Used
 ---
@@ -35,8 +35,8 @@ EDA involved the exploring of the data to answer some questions such as ;
 ### Data Analysis
 This is where we include some basic lines of code or queries used during analysis
   ``` SQL
-SELECT *
-FROM Table1
-WHERE CONDITION = TRUE
+SELECT YearBuilt, Condition, Price,
+COUNT(Condition) OVER (PARTITION BY Condition)
+FROM  House_Price_Prediction
 ```
 ### Data Visualization
