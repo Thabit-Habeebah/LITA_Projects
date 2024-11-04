@@ -27,7 +27,7 @@ The primary source of the data used here was given to us by Incubator Hub to tes
    * CustomerID
    * CustomerName
    * Region
-   * SubscriptionType
+   * SubscriptionType (Basic, Premium, Standard)
    * SubscriptionStart
    * SubscriptionEnd
    * Canceled
@@ -71,3 +71,9 @@ ORDER BY SUM(Revenue) DESC
 ---
 ### Data Visualization
 ![Subscription Report Overview_page-0001](https://github.com/user-attachments/assets/03eb0659-0588-437a-8c59-f1405452c639)
+
+---
+### CONCLUSION 
+From the analysis above, it can be seen that the subscription type with the highest revenue is "Basic", the region with the higest revenue is the "East".In the year 2023,the business made the highest revenue in November which is $3,437,444, where as in the year 2024 the highest sales was in the month of July which is $3,354,858.
+
+   The business is not worse off but can't be said to be performing better in 2024 compared to 2023 which might be as a result of inflation. Although, the business has 4 months to make changes in their sales before the end of the year maybe through advertisement of their products.
