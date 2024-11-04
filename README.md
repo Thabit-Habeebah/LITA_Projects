@@ -23,6 +23,15 @@ This Data Analysis Project gives an insight into the type of subscription made o
 ---
 ### Data Sources
 The primary source of the data used here was given to us by Incubator Hub to test our level of understanding based on  what we were taught over the last 3 months 
+- Columns in the data
+   * CustomerID
+   * CustomerName
+   * Region
+   * SubscriptionType
+   * SubscriptionStart
+   * SubscriptionEnd
+   * Canceled
+   * Revenue($)
 
 ---
 ### Tools Used
