@@ -43,7 +43,10 @@ FROM [dbo].[LITA Capstone Dataset (work2)]
 GROUP BY Region
 ORDER BY SUM(Revenue) DESC
 ```
+![Table (2)](https://github.com/user-attachments/assets/8a7d1ca2-9f94-4c5f-a74e-821dcfdd2896)
+
 ---
 ### Data Visualization
+![Subscription Report Overview_page-0001](https://github.com/user-attachments/assets/03eb0659-0588-437a-8c59-f1405452c639)
 
-![Charts](https://github.com/user-attachments/assets/20ccec90-1033-4291-86eb-c0a113aa98f0)
+
