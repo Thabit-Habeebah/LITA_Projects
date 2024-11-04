@@ -2,6 +2,20 @@
 
 ### Project Title: Subscription Report Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+[Data Analysis](data-analysis)
+
+[Data Visualization](data-visualization)
+
 ---
 ### Project Overview
 This Data Analysis Project gives an insight into the type of subscription made over the years.By analysing various parameters in the data received ,we seek to gather enough insight to take into consideration the Subscription Type and Region the company derived the highest revenue and in what quarter of the year
@@ -48,5 +62,3 @@ ORDER BY SUM(Revenue) DESC
 ---
 ### Data Visualization
 ![Subscription Report Overview_page-0001](https://github.com/user-attachments/assets/03eb0659-0588-437a-8c59-f1405452c639)
-
-
