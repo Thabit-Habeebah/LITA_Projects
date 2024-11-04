@@ -46,3 +46,4 @@ ORDER BY SUM(Revenue) DESC
 ---
 ### Data Visualization
 
+![Charts](https://github.com/user-attachments/assets/20ccec90-1033-4291-86eb-c0a113aa98f0)
