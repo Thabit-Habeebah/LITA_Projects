@@ -16,6 +16,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Conclusion](#conclusion) 
+
 ---
 ### Project Overview
 This Data Analysis Project gives an insight into the type of subscription made over the years.By analysing various parameters in the data received ,we seek to gather enough insight to take into consideration the Subscription Type and Region the company derived the highest revenue and in what quarter of the year
